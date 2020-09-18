@@ -1,0 +1,10 @@
+Algorithm Runtime
+
+Length of the Input: 50000
+Nature of the data is: sorted
+
+Runtime (in microsecond) for Bubble sort is: 6776.148160000162
+Runtime (in microsecond) for Insertion sort is: 10539.363599999802
+Runtime (in microsecond) for Merge sort is: 434639.2260800005
+Runtime (in microsecond) for Quick sort is: 20158353.6154
+Runtime (in microsecond) for Heap sort is: 466648.67407998827
